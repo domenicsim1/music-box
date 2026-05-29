@@ -45,6 +45,10 @@ ngrok http 5173
 
 Share the `https://xxxx.ngrok-free.app` URL with your team.
 
+## About
+
+This project was built entirely with [Claude Code](https://claude.ai/code) (AI-assisted development).
+
 ## Stack
 
 - **Client** — Vite + React, Tone.js (audio), Socket.io client
