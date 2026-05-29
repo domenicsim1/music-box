@@ -1,0 +1,14 @@
+{
+  "name": "musicbox-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "musicbox": "file:..",
+    "socket.io": "^4.7.2"
+  }
+}
